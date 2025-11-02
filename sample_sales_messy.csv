@@ -1,0 +1,9 @@
+OrderID,Customer,Product,Quantity,Price,OrderDate,Region
+1001,Aman ,Widget A,2, 2500,2024-07-01,North
+1002,Nidhi,Widget B,1,1500,2024/07/03,South
+1003,Ravi,Widget A,,2500,07-05-2024,North
+1004,Priya,Widget C,5, NaN,2024-07-06,East
+1005,Aman,Widget A,2,2500,2024-07-07,North
+1005,Aman,Widget A,2,2500,2024-07-07,North
+1006,Sita,Widget B,1000,1500,2024-07-08,West
+1007,Rahul,Widget D,3,3000,,South
